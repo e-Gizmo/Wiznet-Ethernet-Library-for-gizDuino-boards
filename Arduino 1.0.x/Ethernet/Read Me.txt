@@ -1,0 +1,14 @@
+
+Change log:
+for e-Gizmo w5500 wiznet ethernet Module
+compatiblity for all gizDuino boards.
+
+From "Ethernet" Library
+ utility>w5100.h
+	8/23/2014 automatic to W5500 if IOT-644 is used
+	          and supports gizDuino + 644
+  	9/30/2015 line 24 defined gizDuino + to support e-Gizmo W5500 module
+  	10/13/2015 line 24 defined gizDuino 328 to support e-Gizmo W5500 module
+
+ utility>W5500.h
+	9/30/2015  line 332 defined gizDuino + to support e-Gizmo W5500 Module
